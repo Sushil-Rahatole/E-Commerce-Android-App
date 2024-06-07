@@ -1,0 +1,6 @@
+This application uses following main features :
+  1) Used API -> In this application i used fast2Sms api to verify cash on delivery orders through otp's that generated through this api. This api verify's each and every otp's so that user would not get any spam verification.
+
+  2) Payment Gateway -> In this application i used Razorpay as a payment gateway because it's provide feature of testing payments, which does not make any transaction but provides same interface and feature as real transaction happens.
+                        We can also use Razorpay for transaction of real amount by accepting some more basic terms and conditions.
+                        While developing new application we have to test it first so we need testing transaction, that razorpay provides.
